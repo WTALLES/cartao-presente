@@ -8,7 +8,6 @@
 # 🌲*Alunos:*🌲
 <br>
 <div>
-  <p>Curso: Dsenvolvimento de Software</p>
   <p>Alunos: Cassio Tavares e Nicolas Pimentel</p>
 </div>
   
