@@ -8,6 +8,6 @@
 # 🌲*Alunos:*🌲
 <br>
 <div>
-  <p>Alunos: Cassio Tavares e Nicolas Pimentel</p>
+  <p>Cassio Tavares e Nicolas Pimentel</p>
 </div>
   
