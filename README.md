@@ -9,6 +9,6 @@
 <br>
 <div>
   <p>Curso: Dsenvolvimento de Software</p>
-  <p>Aluno: Cassio Tavares da Silva</p>
+  <p>Alunos: Cassio Tavares e Nicolas Pimentel/p>
 </div>
   
